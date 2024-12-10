@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadi</h1>
 <h3 align="center">Passionate about computer vision and tech innovations.✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadimohammad" alt="sadimohammad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sadimohammad_" target="blank"><img src="https://img.shields.io/twitter/follow/sadimohammad_?logo=twitter&style=for-the-badge" alt="sadimohammad_" /></a> </p>
 
